@@ -1,5 +1,5 @@
 <a href="https://www.fabriziotorrico.me/">
-  <img src='https://user-images.githubusercontent.com/85640501/132242925-28f5e740-2315-4a92-be0f-bbca1b671c70.gif'/>
+  <img src='/walle.gif'/>
  </a>
 <div>
   <img width="57%" src="https://github-readme-stats.vercel.app/api?username=Torr1co&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
