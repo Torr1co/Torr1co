@@ -1,10 +1,10 @@
-![background github](https://user-images.githubusercontent.com/85640501/132242925-28f5e740-2315-4a92-be0f-bbca1b671c70.gif)
-[Portfolio ;)](https://www.fabriziotorrico.me/)
-
+<a href="https://www.fabriziotorrico.me/">
+  <img src='https://user-images.githubusercontent.com/85640501/132242925-28f5e740-2315-4a92-be0f-bbca1b671c70.gif'/>
+ </a>
 <div>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Torr1co&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="57%" src="https://github-readme-stats.vercel.app/api?username=Torr1co&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torr1co&layout=compact&langs_count=7&theme=dark"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torr1co&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
